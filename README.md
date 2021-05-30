@@ -62,9 +62,9 @@ Human Cleric
 
 ### 5/30/2021
 
-Note taker: `Linda Lim`
+Master Note Taker: `Linda Lim`
 
-With additional comments by `Andrew Milam`
+Additional comments by `Andrew Milam`
 
 [link](/sessions/5-30-2021.md)
 
