@@ -1,7 +1,8 @@
 # Curse of Strahd
 
+https://ddb.ac/campaigns/join/13892472812506182
 
-```ascii
+```txt
 
       ...                                         .x+=:.                                                ...              s                                            ..      
    xH88"`~ .x8X                                  z`    ^%                              oec :        .x888888hx    :     :8                               .uef^"     dF        
