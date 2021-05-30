@@ -65,4 +65,5 @@ Human Cleric
 
 Note taker: `Linda Lim`
 
+[link](/sessions/5-30-2021.md)
 
