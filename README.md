@@ -63,6 +63,10 @@ Human Cleric
 ### 5/30/2021
 
 Note taker: `Linda Lim`
+With additional comments by `Andrew Milam`
 
 [link](/sessions/5-30-2021.md)
 
+Additional comments:
+
+Comcast suuuuuucks :)
