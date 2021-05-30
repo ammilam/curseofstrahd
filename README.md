@@ -24,6 +24,7 @@ _____/\\\\\\\\\\\_______________________________________________/\\\____________
 
 ## Table of Contents
 
+* [DM](#dm)
 * [Party](#party)
   * [Galphina](#galphina)
   * [Haricots Verts](#haricots-verts)
@@ -31,6 +32,11 @@ _____/\\\\\\\\\\\_______________________________________________/\\\____________
   * [Lilith](#lilith)
   * [Zola](#zola)
 * Notes
+
+## DM
+
+Kevin Gavillet
+
 ## Party
 
 ### Galphina
@@ -52,3 +58,11 @@ Human Rogue
 ### Zola
 
 Human Cleric
+
+## Notes
+
+### 5/30/2021
+
+Note taker: `Linda Lim`
+
+
