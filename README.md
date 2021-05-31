@@ -1,6 +1,5 @@
 # Curse of Strahd
 
-https://ddb.ac/campaigns/join/13892472812506182
 
 ```
                                                                                                                              
@@ -34,23 +33,23 @@ Kevin Gavillet
 
 ### Galphina
 
-Half-Elf Sorcerer
+[Half-Elf Sorcerer](https://www.dndbeyond.com/characters/35610799)
 
 ### Haricots Verts
 
-Human Bard
+[Human Bard](https://www.dndbeyond.com/characters/35610564)
 
 ### Kearis
 
-Half-Elf Druid
+[Half-Elf Druid](https://www.dndbeyond.com/characters/35610926)
 
 ### Lilith
 
-Human Rogue
+[Human Rogue](https://www.dndbeyond.com/characters/35610713)
 
 ### Zola
 
-Human Cleric
+[Human Cleric](https://www.dndbeyond.com/profile/ammilam/characters/35610581)
 
 ## Notes
 
